@@ -1,4 +1,6 @@
+//replace duplicates in sorted array such that each element appear atmost twice
 class removeduplicates {
+
     public int removeDuplicates(int[] nums) {
         
         int n=nums.length;
