@@ -1,3 +1,4 @@
+//question: Write a Java program to find the union of two arrays and return it as a sorted array without duplicates.
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashSet;
