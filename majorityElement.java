@@ -1,3 +1,4 @@
+//majority element in an array
 public class majorityElement {
     public int majorityElement(int[] nums) {
         int count = 0;
