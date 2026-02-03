@@ -1,3 +1,4 @@
+//DivideIntoMinimumCost
 public class DivideIntoMinimumCost {
     public int minimumCost(int[] nums) {
         int first = Integer.MAX_VALUE;
