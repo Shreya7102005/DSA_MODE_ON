@@ -1,3 +1,4 @@
+//Subarray sum
 import java.util.HashMap;
 public class subarraySumEqualsK {
     public int subarraySum(int[] nums, int k) {
