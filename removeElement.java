@@ -1,3 +1,4 @@
+//remove elemnt
 public class removeElement {
     public int remove(int[] nums, int val) {
         int a=0;
