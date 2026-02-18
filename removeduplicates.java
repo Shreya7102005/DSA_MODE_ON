@@ -2,16 +2,14 @@
 class removeduplicates {
 
     public int removeDuplicates(int[] nums) {
-        
-        int n=nums.length;
-        int j=2;
-        for(int i=2;i<n;i++){
-            if(nums[i]!=nums[j-2]){
-                nums[j]=nums[i];
-                j++;
+        int i=2;
+        for(int j=2;j<nums.length;j++){
+            if(nums[j]!=nums[i-2]){
+                nums[i]=nums[j];
+                i++;
             }
         }
-        return j ;
+        return i;
     }
     public static void main(String[] args) {
         removeduplicates rd = new removeduplicates();
