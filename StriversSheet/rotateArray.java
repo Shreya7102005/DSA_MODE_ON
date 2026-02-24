@@ -14,7 +14,9 @@ public class rotateArray {
         for(int i=0;i<a;i++){
             arr.add(nums[i]);
         }
-        
+        for(int i=0;i<n;i++){
+            nums[i]=arr.get(i);
+        }
     }
     
 }
