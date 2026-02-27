@@ -11,6 +11,6 @@ public class maxProd {
             }
         }
 
-        return maxProduct;
+        return maxProduct;;
     }
 }
