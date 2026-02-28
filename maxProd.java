@@ -1,3 +1,4 @@
+//maximum product
 public class maxProd {
     public int maxProduct(int[] nums) {
         int maxProduct = Integer.MIN_VALUE;
