@@ -7,6 +7,6 @@ public class mirrorDistance {
             rev=rev*10+r;
             n/=10;
         }
-        
+        return Math.abs(a-rev);
     }
 }
