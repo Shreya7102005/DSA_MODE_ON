@@ -1,3 +1,4 @@
+//
 public class mirrorDistance {
     public int mirrorDistance(int n) {
         int rev=0;
