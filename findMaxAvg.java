@@ -1,3 +1,4 @@
+//find average sum
 class findMaxAvg{
     public double findMaxAverage(int[] nums, int k) {
         int sum=0;
