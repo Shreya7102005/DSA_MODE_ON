@@ -1,3 +1,4 @@
+//q1
 class q1 {
     public int countKConstraintSubstrings(String s, int k) {
         int count=0;
